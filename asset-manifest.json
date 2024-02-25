@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/_projekt_grupowy_frontend/static/css/main.bb1b6f87.css",
+    "main.css": "/_projekt_grupowy_frontend/static/css/main.7567fe55.css",
     "main.js": "/_projekt_grupowy_frontend/static/js/main.edb34cf0.js",
     "static/js/787.9e9f4ffd.chunk.js": "/_projekt_grupowy_frontend/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/Oceanograf.jpg": "/_projekt_grupowy_frontend/static/media/Oceanograf.c711ba1fdaa5f656dd1a.jpg",
+    "static/media/Oceanograf.jpg": "/_projekt_grupowy_frontend/static/media/Oceanograf.d29addcf888f8b0ac426.jpg",
     "static/media/GraniceSamorzadow.jpg": "/_projekt_grupowy_frontend/static/media/GraniceSamorzadow.27e021c792c76446a920.jpg",
     "service-worker.js": "/_projekt_grupowy_frontend/service-worker.js",
     "static/media/logo.svg": "/_projekt_grupowy_frontend/static/media/logo.3d360980da80c56a9e21a67ffa116b2b.svg",
     "index.html": "/_projekt_grupowy_frontend/index.html",
-    "main.bb1b6f87.css.map": "/_projekt_grupowy_frontend/static/css/main.bb1b6f87.css.map",
+    "main.7567fe55.css.map": "/_projekt_grupowy_frontend/static/css/main.7567fe55.css.map",
     "main.edb34cf0.js.map": "/_projekt_grupowy_frontend/static/js/main.edb34cf0.js.map",
     "787.9e9f4ffd.chunk.js.map": "/_projekt_grupowy_frontend/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb1b6f87.css",
+    "static/css/main.7567fe55.css",
     "static/js/main.edb34cf0.js"
   ]
 }
